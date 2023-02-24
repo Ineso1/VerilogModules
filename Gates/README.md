@@ -1,16 +1,16 @@
 Implementacion compuertas AND, OR, XOR, NOT, NAND, NOR, XNOR, YES
 
-##Vista RTL
+## Vista RTL
 
 
 ![image](https://user-images.githubusercontent.com/84602829/221288512-91debe46-0c58-470e-b68f-9ce5eeb0d8d1.png)
 
-##Simulacion
+## Simulacion
 
 
 ![image](https://user-images.githubusercontent.com/84602829/221288531-afb5a91a-6341-4356-87d8-42fa1d577e27.png)
 
-##Prueba
+## Prueba
 
 
 ![image](https://user-images.githubusercontent.com/84602829/221288556-85c25a45-0aa6-4174-8d1a-36079c90a3da.png)
