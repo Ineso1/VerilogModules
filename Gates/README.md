@@ -1,0 +1,1 @@
+Implementacion compuertas AND, OR, XOR, NOT, NAND, NOR, XNOR, YES

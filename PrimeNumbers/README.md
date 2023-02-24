@@ -1,0 +1,1 @@
+Implementacion de operador switch filtrando los numeros primos en 4 bits
