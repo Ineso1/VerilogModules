@@ -14,5 +14,5 @@ Implementacion de operador switch filtrando los numeros primos en 4 bits
 
 ## Prueba
 
-![image](https://user-images.githubusercontent.com/84602829/221290089-7dd8122b-78d3-4fd6-8057-a0a0d2d094ae.png)
+![image](https://user-images.githubusercontent.com/84602829/221290175-7942b8c7-01d5-487c-a33f-73819f88dbec.png)
 ![image](https://user-images.githubusercontent.com/84602829/221290111-8463b517-8e3b-4902-86cf-2e344fc5e46e.png)
